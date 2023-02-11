@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vo-lar
-- 👀 I’m interested in Embedded system
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on c
+- 👀 I’m interested in Cyber security
+- 🌱 I’m currently learning information security
+- 💞️ I’m looking to collaborate on web security
 - 📫 How to reach me Zzikang.fine@gmail.com
 
 <!---
