@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vo-lar
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning information security
-- 💞️ I’m looking to collaborate on web security
-- 📫 How to reach me Zzikang.fine@gmail.com
+- 👀 I’m interested in Audio and video streaming
+- 🌱 I’m currently learning CS
+- 💞️ I’m looking to collaborate on Audio and video development
+- 📫 How to reach me Zzikang@tongji.edu.cn\
 
 <!---
 vo-lar/vo-lar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
