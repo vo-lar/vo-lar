@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vo-lar
-- 👀 I’m interested in Audio C++
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on C++/linux server
+- 👀 I’m interested in AI sec
+- 🌱 I’m currently learning Info sec
+- 💞️ I’m looking to collaborate on AI sec
 - 📫 How to reach me Zzikang@tongji.edu.cn\
 
 <!---
